@@ -3,6 +3,8 @@ This repository contains a TensorFlow 2 implementation of transfer learning with
 
 The content here is from a programming assignment in the [Convolutional Neural Networks](https://www.coursera.org/programs/learning-program-qth60/learn/convolutional-neural-networks) course by Coursera.
 
+![Alt text](assets/mobilenetv2.png)
+
 ## Repository Organization
 
     ├── assets
